@@ -41,7 +41,7 @@ function App() {
   return (
     <>
       <h1>
-        react js
+        React.js Javascript Library
       </h1>
 
       <demoContext.Provider value={obj}>
